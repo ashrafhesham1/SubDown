@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "download": "^8.0.0",
+    "inquirer": "^8.2.2",
+    "opensubtitles.com": "^1.0.0"
+  }
+}
